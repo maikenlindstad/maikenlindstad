@@ -3,7 +3,7 @@
 Junior frontend developer here!👋 I have not worked on any real life projects yet, but I have my own e-commerce selling witchy and Halloween items. 
 Check it out here: https://svartsalt.no/ 
 
-I recently finished two years of Noroff School of technology and digital media studying Front end development and besides working with the course projects,
+I recently finished two years of Noroff School of technology and digital media studying Front end development. Besides working with the course projects,
 I use my imagination and make professional webpages for fictive places like f.ex. Miss Robichauxs Academy, which is the school portrayed in American Horror Story, Season 3. Watching the episodes where this school is introduced helps me find the vibe and see what kind of webpage I should make. You are welcome to visit the page here:
 https://miss-robichauxs-academy.netlify.app/ 
 
