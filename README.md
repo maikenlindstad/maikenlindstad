@@ -10,9 +10,9 @@ Making these kinds of websites gives me a lot practice for upcoming real project
 
 I am currently working on improving my portfolio by adjusting to the Heroku and Strapi changes that have occurred recently, but also have a few other projects in mind which will be pushed at a later time.
 
-I have not worked on any real life projects, but do have my own e-commerce selling witchy and Halloween items. You are welcome to visit the site which is made using Wordpress and Chic Lite theme template: https://svartsalt.no/ 
+I have not worked on any real life projects, but I do have my own e-commerce selling witchy and Halloween items. You are welcome to visit the site which is made using Wordpress and Chic Lite theme template: https://svartsalt.no/ 
 
-At last, I find a lot of fun and enjoyment in making simple online games. In my downtime I am currently learning how to make something bigger through "Let's build an RPG with JavaScript - Part 1: Project Beginnings #pizzalegends" with Drew Conley. https://www.youtube.com/watch?v=fyi4vfbKEeo Its all god fun and he has his own Discord server with many helpful developers you can get to know.
+At last, I find a lot of fun and enjoyment in making simple online games. In my downtime I am currently learning how to make something bigger through "Let's build an RPG with JavaScript - Part 1: Project Beginnings #pizzalegends" with Drew Conley. https://www.youtube.com/watch?v=fyi4vfbKEeo. It is all god fun, and he has his own Discord server with many helpful developers to get familiar with.
 
 If you find the repositories interesting you can always reach out to collaborate. 
 
