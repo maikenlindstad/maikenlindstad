@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# About me
+
+I'm a junior frontend developer with a passion for making creative webpages and use a lot of fiction and fantasy to come up with my designs.
+
 <!--
 **maikenlindstad/maikenlindstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
