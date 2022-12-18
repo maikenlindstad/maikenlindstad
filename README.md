@@ -8,7 +8,7 @@ If you want to visit the school site it is first important to know that none of 
 
 Making these kinds of websites gives me a lot practice for upcoming real projects.
 
-I am currently working on improving my portfolio by adjusting to the Heroku and Strapi changes that have occurred recently, but also have a few other projects in mind which will be pushed later.
+I am currently working on improving my portfolio by adjusting to the Heroku and Strapi changes that have occurred recently, but also have a few other projects in mind which will be pushed at a later time.
 
 I have not worked on any real life projects, but do have my own e-commerce selling witchy and Halloween items. You are welcome to visit the site which is made using Wordpress and Chic Lite theme template: https://svartsalt.no/ 
 
