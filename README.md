@@ -1,8 +1,16 @@
-### Hi there 👋
+### Top of the morning to ya'll 
 
-# About me
+Junior frontend developer here!👋 I have not worked on any real life projects yet, but I have my own e-commerce selling witchy and Halloween items. 
+Check it out here: https://svartsalt.no/ 
 
-I'm a junior frontend developer with a passion for making creative webpages and use a lot of fiction and fantasy to come up with my designs.
+I recently finished two years of Noroff School of technology and digital media studying Front end development and besides working with the course projects,
+I use my imagination and make professional webpages for fictive places like f.ex. Miss Robichauxs Academy, which is the school portrayed in American Horror Story, Season 3. Watching the episodes where this school is introduced helps me find the vibe and see what kind of webpage I should make. You are welcome to visit the page here:
+https://miss-robichauxs-academy.netlify.app/ 
+
+Making these websites gives me a lot practice for upcoming real projects and I am currently working on improving my portfolio by adjusting to the Heroku and Strapi changes, and soon making a professional webpage for the Parks and Reacreation Department in Pawnee.
+
+
+
 
 <!--
 **maikenlindstad/maikenlindstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
