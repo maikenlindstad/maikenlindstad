@@ -7,8 +7,6 @@ Besides working with the projects in school, I have been using my imagination to
 
 If you want to visit the school site it is first important to know that none of the written materials or photographs are mine. Please see citation and acknowledgements here: Coming soon... or by clicking "Miss Robichaux's Academy" at the bottom of the page. Check out the site: https://miss-robichauxs-academy.netlify.app/ 
 
-Making these kinds of websites gives me a lot practice for upcoming real websites.
-
 I am currently working on improving my portfolio by adjusting to the Heroku and Strapi changes that have occurred recently, but also have a few other projects in mind which will be pushed at a later time.
 
 I have not worked on any real life projects yet, but I do have my own e-commerce selling witchy and Halloween items. You are welcome to visit the site which is made using Wordpress and Chic Lite theme template: https://svartsalt.no/ 
