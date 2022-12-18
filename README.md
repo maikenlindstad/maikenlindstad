@@ -1,4 +1,4 @@
-### Top of the morning to ya'll 
+### Ladies and gentlemen, welcome!
 
 Junior frontend developer here!👋 I have not worked on any real life projects yet, but I have my own e-commerce selling witchy and Halloween items. 
 Check it out here: https://svartsalt.no/ 
