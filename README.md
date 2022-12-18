@@ -3,7 +3,7 @@
 Junior frontend developer here!👋 
 
 My name is Maiken and I recently finished two years of Noroff School of technology and digital media studying Front end development. 
-Besides working with the projects in school, I have been using my imagination to make professional webpages for fictive places like f.ex. Miss Robichauxs Academy, which is the school portrayed in season 3 of American Horror Story. Watching the episodes where this school was introduced and the organization was talking about their goals and vision helped me find the vibe and see what kind of webpage I should make. It is important to get to know the business/organizatin to be able to help them show their best selves, and to reflect what they are trying to accomplish.
+Besides working with the projects in school, I have been using my imagination to make professional webpages for fictive places like f.ex. Miss Robichauxs Academy, which is the school portrayed in season 3 of American Horror Story. Watching the episodes where this school was introduced and the organization was talking about their goals and vision helped me find the vibe and see what kind of webpage I should make. It is important to get to know the business/organization to be able to help them show their best selves, and to reflect what they are trying to accomplish.
 If you want to visit the school site it is first important to know that none of the written materials or photographs are mine. Please see citation and acknowledgements here: Coming soon... Check out the site: https://miss-robichauxs-academy.netlify.app/ 
 
 Making these kinds of websites gives me a lot practice for upcoming real projects.
