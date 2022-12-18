@@ -16,8 +16,6 @@ At last, I find a lot of fun and enjoyment in making simple online games. In my 
 
 If you find the repositories interesting you can always reach out to collaborate. 
 
-I am also looking for jobs, so please do not hesitate to contact me if you need more people in you business/organisation. 
-
 ### Contact
 Linkedin: 
 https://www.linkedin.com/in/maiken-aure-lindstad-b6b149161/ 
